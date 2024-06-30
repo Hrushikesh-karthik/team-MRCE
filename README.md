@@ -5,6 +5,8 @@ auth is the name of project
 ig_prj is the name of app
 static files as well as templates are used
 celery and whitenoise packages should be installed additionally
+
+
 This is to run server
 ![run](https://github.com/Hrushikesh-karthik/team-MRCE/assets/143626493/266ce1cf-39b6-4e0c-98b6-fd5f8eab3741)
 This is login page
@@ -17,3 +19,5 @@ User profile
 ![userprofile](https://github.com/Hrushikesh-karthik/team-MRCE/assets/143626493/0caef8ac-3fc0-4d4d-8c91-0b18d25dc7f3)
 follow/unfollow
 ![otherprofile](https://github.com/Hrushikesh-karthik/team-MRCE/assets/143626493/3e5c9074-e15f-4410-92cd-eb7bd04ff74f)
+Messages
+![msg](https://github.com/Hrushikesh-karthik/team-MRCE/assets/143626493/fa0da75a-d04d-4268-9ea9-c3a883b5319e)
