@@ -14,7 +14,7 @@ This is login page
 register page
 ![register](https://github.com/Hrushikesh-karthik/team-MRCE/assets/143626493/e3752404-55ad-4da8-9dac-bfaabdd74842)
 Home page (THE PARTICIPATE BUTTON ALLOWS USERS TO PARTICIPATE IN EVENTS VOLUNTEERED BY HOST)
-![homepage](https://github.com/Hrushikesh-karthik/team-MRCE/assets/143626493/1b479b7b-d79a-4387-9dac-6070050d7c0b)
+![Screenshot 2024-06-30 231548](https://github.com/Hrushikesh-karthik/team-MRCE/assets/143626493/be392aca-7617-486f-87c0-aba562564358)
 User profile
 ![userprofile](https://github.com/Hrushikesh-karthik/team-MRCE/assets/143626493/0caef8ac-3fc0-4d4d-8c91-0b18d25dc7f3)
 follow/unfollow
